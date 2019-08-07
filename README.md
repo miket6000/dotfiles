@@ -3,14 +3,14 @@
 
 Installation of all files can be achieved by copying the file in each application folder into the user home directory (i.e. /home/miket6000).
 
-##zsh
+## zsh
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [powerline](https://github.com/powerline/powerline)
 
-##tmux
+## tmux
 - [powerline](https://github.com/powerline/powerline)
 
-##vim
+## vim
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 
 ## License
